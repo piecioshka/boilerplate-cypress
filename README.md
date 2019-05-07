@@ -17,6 +17,8 @@ npm test
 * [test-puppeteer-jasmine](https://github.com/piecioshka/test-puppeteer-jasmine)
 * [test-testcafe](https://github.com/piecioshka/test-testcafe)
 * [test-nightwatch-chrome-headless](https://github.com/piecioshka/test-nightwatch-chrome-headless)
+* [test-codeceptjs](https://github.com/piecioshka/test-codeceptjs)
+* [test-cucumberjs](https://github.com/piecioshka/test-cucumberjs)
 
 ## License
 
