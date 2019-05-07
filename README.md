@@ -1,0 +1,23 @@
+# test-cypress
+
+[![travis](https://img.shields.io/travis/piecioshka/test-cypress.svg)](https://travis-ci.org/piecioshka/test-cypress)
+[![dependencies](https://david-dm.org/piecioshka/test-cypress.svg)](https://github.com/piecioshka/test-cypress)
+
+:ledger: Testing [Cypress](https://www.cypress.io/)
+
+## End-to-end tests
+
+```bash
+npm test
+```
+
+## Related
+
+* [test-cypress](https://github.com/piecioshka/test-cypress)
+* [test-puppeteer-jasmine](https://github.com/piecioshka/test-puppeteer-jasmine)
+* [test-testcafe](https://github.com/piecioshka/test-testcafe)
+* [test-nightwatch-chrome-headless](https://github.com/piecioshka/test-nightwatch-chrome-headless)
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2018
