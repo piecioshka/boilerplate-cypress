@@ -5,13 +5,18 @@
     "scripts": {
         "test": "cypress run"
     },
-    "keywords": [],
-    "author": "Piotr Kowalski <piecioshka@gmail.com> (https://piecioshka.pl)",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
     "license": "MIT",
     "dependencies": {
-        "cypress": "^3.2.0"
+        "cypress": "^4.1.0"
     },
     "devDependencies": {
-        "mocha": "^6.1.4"
+        "@types/cypress": "^1.1.3",
+        "@types/mocha": "^7.0.2",
+        "mocha": "^7.1.0"
     }
 }

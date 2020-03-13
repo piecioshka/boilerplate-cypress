@@ -1,6 +1,5 @@
 # test-cypress
 
-[![dependencies](https://david-dm.org/piecioshka/test-cypress.svg)](https://github.com/piecioshka/test-cypress)
 [![travis](https://img.shields.io/travis/piecioshka/test-cypress.svg)](https://travis-ci.org/piecioshka/test-cypress)
 
 :ledger: Testing [Cypress](https://www.cypress.io/)
