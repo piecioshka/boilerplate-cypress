@@ -1,7 +1,13 @@
-const PAGE_URL = 'https://piecioshka.pl/blog/';
+/// <reference types="Cypress" />
 
 describe('General', function () {
-    it('Verify is logo present', function () {
-        cy.visit(PAGE_URL);
+    it('should display a logo', function () {
+        cy.visit('/blog/');
+        cy.get('#me img');
+    });
+    it('should redirect to homepage after click on logo', () => {
+        cy.visit('/blog/');
+        cy.get('#me img').click();
+        cy.url().should('equal', 'https://piecioshka.pl/');
     });
 });

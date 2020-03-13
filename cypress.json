@@ -1,3 +1,5 @@
 {
-    "integrationFolder": "test"
+    "baseUrl": "https://piecioshka.pl/",
+    "integrationFolder": "test",
+    "waitForAnimations": false
 }
