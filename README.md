@@ -1,6 +1,6 @@
 # boilerplate-cypress
 
-[![travis](https://img.shields.io/travis/piecioshka/boilerplate-cypress.svg)](https://travis-ci.org/piecioshka/boilerplate-cypress)
+[![travis-ci](https://img.shields.io/travis/piecioshka/boilerplate-cypress.svg)](https://travis-ci.org/piecioshka/boilerplate-cypress)
 
 :ledger: Testing [Cypress](https://www.cypress.io/)
 
