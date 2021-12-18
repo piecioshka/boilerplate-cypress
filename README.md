@@ -4,6 +4,10 @@
 
 🍴 Starter with [Cypress](https://www.cypress.io/)
 
+## Features
+
+* :white_check_mark: Cypress `v9.1.1`
+
 ## End-to-end tests
 
 ```bash
@@ -21,4 +25,4 @@ npm test
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2018
+[The MIT License](http://piecioshka.mit-license.org) @ 2018-2021
