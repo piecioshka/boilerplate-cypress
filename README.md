@@ -1,6 +1,6 @@
 # boilerplate-cypress
 
-[![travis-ci](https://img.shields.io/travis/piecioshka/boilerplate-cypress.svg)](https://travis-ci.org/piecioshka/boilerplate-cypress)
+[![travis-ci](https://img.shields.io/travis/piecioshka/boilerplate-cypress.svg)](https://app.travis-ci.com/github/piecioshka/boilerplate-cypress)
 
 🍴 Starter with [Cypress](https://www.cypress.io/)
 
