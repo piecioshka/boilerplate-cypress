@@ -10,8 +10,8 @@
     "url": "https://piecioshka.pl/"
   },
   "scripts": {
-    "cypress:open": "cypress open",
-    "test": "cypress run"
+    "e2e": "cypress run",
+    "e2e:open": "cypress open"
   },
   "devDependencies": {
     "@types/cypress": "^1.1.3",

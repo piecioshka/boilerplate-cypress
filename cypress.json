@@ -1,6 +1,6 @@
 {
     "baseUrl": "https://piecioshka.pl/",
-    "integrationFolder": "test",
+    "integrationFolder": "e2e",
     "waitForAnimations": false,
     "chromeWebSecurity": false
 }

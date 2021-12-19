@@ -2,7 +2,7 @@
 
 [![travis-ci](https://img.shields.io/travis/piecioshka/boilerplate-cypress.svg)](https://app.travis-ci.com/github/piecioshka/boilerplate-cypress)
 
-🍴 Starter with [Cypress](https://www.cypress.io/)
+🍴 Starter with Cypress
 
 ## Features
 
