@@ -1,7 +1,5 @@
 # boilerplate-cypress
 
-[![travis-ci](https://api.travis-ci.com/piecioshka/boilerplate-cypress.svg?branch=master)](https://app.travis-ci.com/github/piecioshka/boilerplate-cypress)
-
 🍴 Starter with Cypress
 
 ## Features
