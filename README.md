@@ -4,7 +4,7 @@
 
 ## Features
 
-* :white_check_mark: Cypress `v9.1.1`
+- ✅ Cypress `v9.1.1`
 
 ## End-to-end tests
 
@@ -23,4 +23,4 @@ npm test
 
 ## License
 
-[The MIT License](https://piecioshka.mit-license.org) @ 2019-2021
+[The MIT License](https://piecioshka.mit-license.org) @ 2019
